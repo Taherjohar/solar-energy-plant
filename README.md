@@ -1,1 +1,1 @@
-# solar-energy-plant
+# solar_power
